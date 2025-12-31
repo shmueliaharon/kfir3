@@ -1,0 +1,2977 @@
+{
+  "title": "מסלול הטיול שלי - טיול למזרח 2026",
+  "days": [
+    {
+      "date": "23.12",
+      "country": "תאילנד",
+      "location": "בנגקוק",
+      "lodging": "siam stadium hostel",
+      "transfers": [
+        "טיסה מישראל לשדה תעופה סוונאפום בנגקוק"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: בנגקוק.",
+      "places": [
+        {
+          "name": "grand place - מתחם מקדשי המלך",
+          "type": "מתחם מקדשי המלך",
+          "description": "מתחם הארמון המלכותי של תאילנד ואחד האתרים החשובים בבנגקוק, כולל חצרות ומקדשים מפוארים. הביקור נותן טעימה עמוקה מההיסטוריה והאדריכלות התאילנדית.",
+          "tips": "לבוש צנוע חובה. להגיע מוקדם בבוקר ולשמור מים וכובע.",
+          "website": "https://www.google.com/maps/search/?api=1&query=grand+place+בנגקוק+תאילנד"
+        },
+        {
+          "name": "chatuchak markt - שוק מקומי",
+          "type": "שוק מקומי",
+          "description": "שוק סוף השבוע העצום של בנגקוק, עם אלפי דוכנים מכל הסוגים: בגדים, מזכרות, אוכל, עיצוב ועוד. חוויה אורבנית צבעונית.",
+          "tips": "להגיע בשעות הבוקר, להתארגן על מזומן, ולסמן נקודת מפגש.",
+          "website": "https://www.google.com/maps/search/?api=1&query=chatuchak+markt+בנגקוק+תאילנד"
+        },
+        {
+          "name": "asiatique - שוק לילה על הנהר",
+          "type": "שוק לילה על הנהר",
+          "description": "מתחם בילוי וקניות על הנהר עם מסעדות, חנויות ואווירה של שוק לילה. מתאים במיוחד לערב רגוע אחרי יום בעיר.",
+          "tips": "להגיע לקראת ערב. אפשר לשלב שייט קצר על הנהר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=asiatique+בנגקוק+תאילנד"
+        },
+        {
+          "name": "wat arun -מקדש",
+          "type": "מקדש",
+          "description": "מקדש השחר על גדת נהר הצ׳או פראיה. ידוע במגדל המרכזי המעוטר ובתצפיות יפות על הנהר והעיר.",
+          "tips": "שקיעה היא הזמן המוצלח ביותר. להגיע בנוחות עם נעליים טובות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=wat+arun+בנגקוק+תאילנד"
+        },
+        {
+          "name": "iconsiam - קניון ענק",
+          "type": "קניון ענק",
+          "description": "קניון ענק ומודרני על גדת הנהר, עם חנויות, מתחמי אוכל ותצוגות תרבות. פתרון מצוין למזג אוויר חם או גשם.",
+          "tips": "להגיע אחר הצהריים או בערב. מומלץ לשלב ארוחה במתחם האוכל.",
+          "website": "https://www.google.com/maps/search/?api=1&query=iconsiam+בנגקוק+תאילנד"
+        },
+        {
+          "name": "wat pho - מקדש הבודה השוכב",
+          "type": "מקדש הבודה השוכב",
+          "description": "מקדש הבודהה השוכב, אחד המקדשים המפורסמים בבנגקוק. פסל ענק מצופה זהב וחצרות נעימות לביקור.",
+          "tips": "להקדיש שעה-שעה וחצי. אפשר לשלב עיסוי תאילנדי קצר במקום.",
+          "website": "https://www.google.com/maps/search/?api=1&query=wat+pho+בנגקוק+תאילנד"
+        },
+        {
+          "name": "dusit central park - פארק טבע מטורף",
+          "type": "פארק טבע מטורף",
+          "description": "פארק טבע מטורף. מומלץ לשלב את המקום במסגרת יום רגוע בבנגקוק ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=dusit+central+park+בנגקוק+תאילנד"
+        },
+        {
+          "name": "תצפית מגדל מאהאנקון  - Mahanakhon Tower",
+          "type": "Mahanakhon Tower",
+          "description": "Mahanakhon Tower. מומלץ לשלב את המקום במסגרת יום רגוע בבנגקוק ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=תצפית+מגדל+מאהאנקון+בנגקוק+תאילנד"
+        },
+        {
+          "name": "sampeng market - שוק מקומי",
+          "type": "שוק מקומי",
+          "description": "שוק מקומי. מומלץ לשלב את המקום במסגרת יום רגוע בבנגקוק ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=sampeng+market+בנגקוק+תאילנד"
+        },
+        {
+          "name": "שיט בנהר??",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בבנגקוק. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שיט+בנהר??+בנגקוק+תאילנד"
+        },
+        {
+          "name": "chinatown - רחוב אוכל",
+          "type": "רחוב אוכל",
+          "description": "רחוב אוכל. מומלץ לשלב את המקום במסגרת יום רגוע בבנגקוק ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=chinatown+בנגקוק+תאילנד"
+        },
+        {
+          "name": "pak khlong talat - שוק פרחים",
+          "type": "שוק פרחים",
+          "description": "שוק פרחים. מומלץ לשלב את המקום במסגרת יום רגוע בבנגקוק ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=pak+khlong+talat+בנגקוק+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "24.12",
+      "country": "תאילנד",
+      "location": "בנגקוק",
+      "lodging": "siam stadium hostel",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: בנגקוק.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Chinatown (Yaowarat)",
+          "type": "אזור",
+          "description": "אזור אוכל רחוב שוקק בערב עם דוכנים, מסעדות ושווקים קטנים. (בנגקוק).",
+          "tips": "להגיע בערב, לשמור על כיסים, ולהעדיף דוכנים עמוסים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Chinatown+(Yaowarat)+בנגקוק+תאילנד"
+        },
+        {
+          "name": "Lumphini Park",
+          "type": "פארק",
+          "description": "פארק עירוני גדול ונעים להליכה רגועה ולהפוגה מהעיר. (בנגקוק).",
+          "tips": "בוקר מוקדם או שקיעה הם הזמנים הנעימים ביותר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Lumphini+Park+בנגקוק+תאילנד"
+        },
+        {
+          "name": "MBK Center",
+          "type": "קניון",
+          "description": "קניון פופולרי לקניות, מזכרות ואלקטרוניקה במחירים נגישים. (בנגקוק).",
+          "tips": "מתאים לשעות חמות או גשם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=MBK+Center+בנגקוק+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "25.12",
+      "country": "תאילנד",
+      "location": "בנגקוק",
+      "lodging": "siam stadium hostel",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: בנגקוק.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Chinatown (Yaowarat)",
+          "type": "אזור",
+          "description": "אזור אוכל רחוב שוקק בערב עם דוכנים, מסעדות ושווקים קטנים. (בנגקוק).",
+          "tips": "להגיע בערב, לשמור על כיסים, ולהעדיף דוכנים עמוסים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Chinatown+(Yaowarat)+בנגקוק+תאילנד"
+        },
+        {
+          "name": "Lumphini Park",
+          "type": "פארק",
+          "description": "פארק עירוני גדול ונעים להליכה רגועה ולהפוגה מהעיר. (בנגקוק).",
+          "tips": "בוקר מוקדם או שקיעה הם הזמנים הנעימים ביותר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Lumphini+Park+בנגקוק+תאילנד"
+        },
+        {
+          "name": "MBK Center",
+          "type": "קניון",
+          "description": "קניון פופולרי לקניות, מזכרות ואלקטרוניקה במחירים נגישים. (בנגקוק).",
+          "tips": "מתאים לשעות חמות או גשם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=MBK+Center+בנגקוק+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "26.12",
+      "country": "תאילנד",
+      "location": "בנגקוק",
+      "lodging": "siam stadium hostel",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: בנגקוק.",
+      "places": [
+        {
+          "name": "טיול יום מחוץ לבנגקוק?",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בבנגקוק. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+יום+מחוץ+לבנגקוק?+בנגקוק+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "27.12",
+      "country": "תאילנד",
+      "location": "בנגקוק + קופנגן",
+      "lodging": "delight resort - הד רין",
+      "transfers": [
+        "טיסה משדה תעופה דון מואנג בנגקוק לסורטאני",
+        "וואן ומעבורת סגור"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: בנגקוק + קופנגן.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Chinatown (Yaowarat)",
+          "type": "אזור",
+          "description": "אזור אוכל רחוב שוקק בערב עם דוכנים, מסעדות ושווקים קטנים. (בנגקוק + קופנגן).",
+          "tips": "להגיע בערב, לשמור על כיסים, ולהעדיף דוכנים עמוסים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Chinatown+(Yaowarat)+בנגקוק+++קופנגן+תאילנד"
+        },
+        {
+          "name": "Lumphini Park",
+          "type": "פארק",
+          "description": "פארק עירוני גדול ונעים להליכה רגועה ולהפוגה מהעיר. (בנגקוק + קופנגן).",
+          "tips": "בוקר מוקדם או שקיעה הם הזמנים הנעימים ביותר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Lumphini+Park+בנגקוק+++קופנגן+תאילנד"
+        },
+        {
+          "name": "MBK Center",
+          "type": "קניון",
+          "description": "קניון פופולרי לקניות, מזכרות ואלקטרוניקה במחירים נגישים. (בנגקוק + קופנגן).",
+          "tips": "מתאים לשעות חמות או גשם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=MBK+Center+בנגקוק+++קופנגן+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "28.12",
+      "country": "תאילנד",
+      "location": "קופנגן",
+      "lodging": "delight resort - הד רין",
+      "transfers": [],
+      "restaurants": [
+        "dao -  מסעדת שף ישראלי יוקרתי"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: קופנגן.",
+      "places": [
+        {
+          "name": "טיול יום - 42 האיים - Ang Thong",
+          "type": "42 האיים - Ang Thong",
+          "description": "טיול יום לארכיפלג Ang Thong (42 איים) עם שייט, תצפיות וחופים. אחת החוויות היפות באזור קוסמוי/קופנגן.",
+          "tips": "להביא בגד ים, מגבת, קרם הגנה ונעלי מים. לצאת מוקדם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+יום+קופנגן+תאילנד"
+        },
+        {
+          "name": "טיול יום קוטאו ונאנג יואן",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקופנגן. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+יום+קוטאו+ונאנג+יואן+קופנגן+תאילנד"
+        },
+        {
+          "name": "טיול סובב קופנגן ברכב 4X4",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקופנגן. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+סובב+קופנגן+ברכב+4X4+קופנגן+תאילנד"
+        },
+        {
+          "name": "שוק אוכל יום ראשון - הד רין",
+          "type": "הד רין",
+          "description": "חוף מפורסם בקופנגן עם חול לבן ומים צלולים. ביום רגיל רגוע ונעים, ובעונות מסיבות עמוס.",
+          "tips": "לשקיעה החוף מצוין. בימי מסיבות להגיע מוקדם ולהיערך לעומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שוק+אוכל+יום+ראשון+קופנגן+תאילנד"
+        },
+        {
+          "name": "טיול יום בגונגלים חופים ומפלים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקופנגן. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+יום+בגונגלים+חופים+ומפלים+קופנגן+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "29.12",
+      "country": "תאילנד",
+      "location": "קופנגן",
+      "lodging": "delight resort - הד רין",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: קופנגן.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Haad Yao",
+          "type": "חוף",
+          "description": "חוף ארוך ונעים בצפון-מערב האי, מתאים לרחצה ושקיעה. (קופנגן).",
+          "tips": "להביא ציוד שנורקל אם יש.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Haad+Yao+קופנגן+תאילנד"
+        },
+        {
+          "name": "Bottle Beach (Haad Khuat)",
+          "type": "חוף",
+          "description": "חוף מבודד ויפה שמרגיש 'אי-אי'. (קופנגן).",
+          "tips": "להגיע בסירה או 4x4, לבדוק תנאי ים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Bottle+Beach+(Haad+Khuat)+קופנגן+תאילנד"
+        },
+        {
+          "name": "Than Sadet Waterfall",
+          "type": "טבע",
+          "description": "אזור מפלים ויער טרופי לטיול קצר. (קופנגן).",
+          "tips": "נעליים נוחות ומים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Than+Sadet+Waterfall+קופנגן+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "30.12",
+      "country": "תאילנד",
+      "location": "קופנגן + קוסמוי",
+      "lodging": "p168 hostel samui - צאוונג קוסמוי",
+      "transfers": [
+        "מעבורת מקופנגן הד רין - לצאוונג ביץ קוסמוי",
+        "סגור"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: קופנגן + קוסמוי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Haad Yao",
+          "type": "חוף",
+          "description": "חוף ארוך ונעים בצפון-מערב האי, מתאים לרחצה ושקיעה. (קופנגן + קוסמוי).",
+          "tips": "להביא ציוד שנורקל אם יש.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Haad+Yao+קופנגן+++קוסמוי+תאילנד"
+        },
+        {
+          "name": "Bottle Beach (Haad Khuat)",
+          "type": "חוף",
+          "description": "חוף מבודד ויפה שמרגיש 'אי-אי'. (קופנגן + קוסמוי).",
+          "tips": "להגיע בסירה או 4x4, לבדוק תנאי ים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Bottle+Beach+(Haad+Khuat)+קופנגן+++קוסמוי+תאילנד"
+        },
+        {
+          "name": "Than Sadet Waterfall",
+          "type": "טבע",
+          "description": "אזור מפלים ויער טרופי לטיול קצר. (קופנגן + קוסמוי).",
+          "tips": "נעליים נוחות ומים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Than+Sadet+Waterfall+קופנגן+++קוסמוי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "31.12",
+      "country": "תאילנד",
+      "location": "קוסמוי",
+      "lodging": "p168 hostel samui - צאוונג קוסמוי",
+      "transfers": [],
+      "restaurants": [
+        "the cocoon - בית קפה מסעדה"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: קוסמוי.",
+      "places": [
+        {
+          "name": "טיול 42 האיים - יותר זול מקופנגן",
+          "type": "יותר זול מקופנגן",
+          "description": "טיול יום לארכיפלג Ang Thong (42 איים) עם שייט, תצפיות וחופים. אחת החוויות היפות באזור קוסמוי/קופנגן.",
+          "tips": "להביא בגד ים, מגבת, קרם הגנה ונעלי מים. לצאת מוקדם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+42+האיים+קוסמוי+תאילנד"
+        },
+        {
+          "name": "אי החזירים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקוסמוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=אי+החזירים+קוסמוי+תאילנד"
+        },
+        {
+          "name": "אומגות",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקוסמוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=אומגות+קוסמוי+תאילנד"
+        },
+        {
+          "name": "טרקטורונים ברחבי האי",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקוסמוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טרקטורונים+ברחבי+האי+קוסמוי+תאילנד"
+        },
+        {
+          "name": "רחבת מקדשים - wat plai laem",
+          "type": "wat plai laem",
+          "description": "wat plai laem. מומלץ לשלב את המקום במסגרת יום רגוע בקוסמוי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=רחבת+מקדשים+קוסמוי+תאילנד"
+        },
+        {
+          "name": "שוק לילה כפר הדייגים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקוסמוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שוק+לילה+כפר+הדייגים+קוסמוי+תאילנד"
+        },
+        {
+          "name": "central samui - מרכז קניות",
+          "type": "מרכז קניות",
+          "description": "מרכז קניות. מומלץ לשלב את המקום במסגרת יום רגוע בקוסמוי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=central+samui+קוסמוי+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "1.1",
+      "country": "תאילנד",
+      "location": "קוסמוי",
+      "lodging": "p168 hostel samui - צאוונג קוסמוי",
+      "transfers": [],
+      "restaurants": [
+        "coco tams - מסעדה בכפר הדייגים עם מופעי אש בלילה"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: קוסמוי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Chaweng Beach",
+          "type": "חוף",
+          "description": "החוף המרכזי של קוסמוי עם אווירה חיה, מסעדות וחיי לילה. (קוסמוי).",
+          "tips": "לבחור אזור שקט יותר אם רוצים מנוחה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Chaweng+Beach+קוסמוי+תאילנד"
+        },
+        {
+          "name": "Fisherman's Village (Bophut)",
+          "type": "אזור",
+          "description": "אזור טיילת עם מסעדות וחנויות באווירה נעימה. (קוסמוי).",
+          "tips": "מתאים במיוחד לערב.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Fisherman's+Village+(Bophut)+קוסמוי+תאילנד"
+        },
+        {
+          "name": "Big Buddha Temple (Wat Phra Yai)",
+          "type": "מקדש",
+          "description": "מקדש ידוע עם פסל בודהה גדול ותצפית קצרה. (קוסמוי).",
+          "tips": "לבוש צנוע, ביקור קצר ונוח.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Big+Buddha+Temple+(Wat+Phra+Yai)+קוסמוי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "2.1",
+      "country": "תאילנד",
+      "location": "קוסמוי",
+      "lodging": "p168 hostel samui - צאוונג קוסמוי",
+      "transfers": [],
+      "restaurants": [
+        "the jungle club - מסעדה בתצפית"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: קוסמוי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Chaweng Beach",
+          "type": "חוף",
+          "description": "החוף המרכזי של קוסמוי עם אווירה חיה, מסעדות וחיי לילה. (קוסמוי).",
+          "tips": "לבחור אזור שקט יותר אם רוצים מנוחה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Chaweng+Beach+קוסמוי+תאילנד"
+        },
+        {
+          "name": "Fisherman's Village (Bophut)",
+          "type": "אזור",
+          "description": "אזור טיילת עם מסעדות וחנויות באווירה נעימה. (קוסמוי).",
+          "tips": "מתאים במיוחד לערב.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Fisherman's+Village+(Bophut)+קוסמוי+תאילנד"
+        },
+        {
+          "name": "Big Buddha Temple (Wat Phra Yai)",
+          "type": "מקדש",
+          "description": "מקדש ידוע עם פסל בודהה גדול ותצפית קצרה. (קוסמוי).",
+          "tips": "לבוש צנוע, ביקור קצר ונוח.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Big+Buddha+Temple+(Wat+Phra+Yai)+קוסמוי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "3.1",
+      "country": "תאילנד",
+      "location": "קוסמוי + קראבי",
+      "lodging": "Sabai Hotel Aonang 390 שח",
+      "transfers": [
+        "מעבורת מקוסמוי לסורטאני +",
+        "אוטובוס מסורטאני לקראבי",
+        "סגור"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: קוסמוי + קראבי.",
+      "places": [
+        {
+          "name": "ריילי ביץ - חוף מדהים",
+          "type": "חוף מדהים",
+          "description": "חוף מדהים. מומלץ לשלב את המקום במסגרת יום רגוע בקוסמוי + קראבי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=ריילי+ביץ+קוסמוי+++קראבי+תאילנד"
+        },
+        {
+          "name": "חוף פרה נאנג - לא רחוק מריילי ביץ",
+          "type": "לא רחוק מריילי ביץ",
+          "description": "לא רחוק מריילי ביץ. מומלץ לשלב את המקום במסגרת יום רגוע בקוסמוי + קראבי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=חוף+פרה+נאנג+קוסמוי+++קראבי+תאילנד"
+        },
+        {
+          "name": "מערת היהלומים - לא רחוק מריילי",
+          "type": "לא רחוק מריילי",
+          "description": "לא רחוק מריילי. מומלץ לשלב את המקום במסגרת יום רגוע בקוסמוי + קראבי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מערת+היהלומים+קוסמוי+++קראבי+תאילנד"
+        },
+        {
+          "name": "הלגונה הנסתרת - ראיזור ריילי",
+          "type": "ראיזור ריילי",
+          "description": "ראיזור ריילי. מומלץ לשלב את המקום במסגרת יום רגוע בקוסמוי + קראבי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=הלגונה+הנסתרת+קוסמוי+++קראבי+תאילנד"
+        },
+        {
+          "name": "טיול 4 האיים וקופיפי - שייט מומלץ",
+          "type": "שייט מומלץ",
+          "description": "שייט מומלץ. מומלץ לשלב את המקום במסגרת יום רגוע בקוסמוי + קראבי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+4+האיים+וקופיפי+קוסמוי+++קראבי+תאילנד"
+        },
+        {
+          "name": "הבריכה הכחולה ובריכת אזמרגד - רחוק",
+          "type": "רחוק",
+          "description": "רחוק. מומלץ לשלב את המקום במסגרת יום רגוע בקוסמוי + קראבי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=הבריכה+הכחולה+ובריכת+אזמרגד+קוסמוי+++קראבי+תאילנד"
+        },
+        {
+          "name": "מקדש מערת הנמר",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקוסמוי + קראבי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מקדש+מערת+הנמר+קוסמוי+++קראבי+תאילנד"
+        },
+        {
+          "name": "שייט לאיי הונג",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקוסמוי + קראבי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שייט+לאיי+הונג+קוסמוי+++קראבי+תאילנד"
+        },
+        {
+          "name": "סיור בקיאק ביער המנוגרבים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בקוסמוי + קראבי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=סיור+בקיאק+ביער+המנוגרבים+קוסמוי+++קראבי+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "4.1",
+      "country": "תאילנד",
+      "location": "קראבי",
+      "lodging": "Sabai Hotel Aonang 390 שח",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: קראבי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Ao Nang Beach",
+          "type": "חוף",
+          "description": "בסיס מצוין ליציאה לטיולי איים ושקיעות. טיילת עם מסעדות. (קראבי).",
+          "tips": "לשקיעה להגיע מוקדם לתפוס מקום.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Ao+Nang+Beach+קראבי+תאילנד"
+        },
+        {
+          "name": "Railay Beach",
+          "type": "חוף",
+          "description": "חוף מפורסם עם צוקים, גישה בסירה מאאו נאנג. (קראבי).",
+          "tips": "להגיע בבוקר לפני העומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Railay+Beach+קראבי+תאילנד"
+        },
+        {
+          "name": "4 Islands Tour",
+          "type": "שייט",
+          "description": "טיול איים קלאסי באזור קראבי עם עצירות לשנורקל וחופים. (קראבי).",
+          "tips": "קרם הגנה, מים, ונעלי מים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=4+Islands+Tour+קראבי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "5.1",
+      "country": "תאילנד",
+      "location": "קראבי",
+      "lodging": "Sabai Hotel Aonang 390 שח",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: קראבי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Ao Nang Beach",
+          "type": "חוף",
+          "description": "בסיס מצוין ליציאה לטיולי איים ושקיעות. טיילת עם מסעדות. (קראבי).",
+          "tips": "לשקיעה להגיע מוקדם לתפוס מקום.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Ao+Nang+Beach+קראבי+תאילנד"
+        },
+        {
+          "name": "Railay Beach",
+          "type": "חוף",
+          "description": "חוף מפורסם עם צוקים, גישה בסירה מאאו נאנג. (קראבי).",
+          "tips": "להגיע בבוקר לפני העומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Railay+Beach+קראבי+תאילנד"
+        },
+        {
+          "name": "4 Islands Tour",
+          "type": "שייט",
+          "description": "טיול איים קלאסי באזור קראבי עם עצירות לשנורקל וחופים. (קראבי).",
+          "tips": "קרם הגנה, מים, ונעלי מים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=4+Islands+Tour+קראבי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "6.1",
+      "country": "תאילנד",
+      "location": "קראבי",
+      "lodging": "Sabai Hotel Aonang 390 שח",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: קראבי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Ao Nang Beach",
+          "type": "חוף",
+          "description": "בסיס מצוין ליציאה לטיולי איים ושקיעות. טיילת עם מסעדות. (קראבי).",
+          "tips": "לשקיעה להגיע מוקדם לתפוס מקום.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Ao+Nang+Beach+קראבי+תאילנד"
+        },
+        {
+          "name": "Railay Beach",
+          "type": "חוף",
+          "description": "חוף מפורסם עם צוקים, גישה בסירה מאאו נאנג. (קראבי).",
+          "tips": "להגיע בבוקר לפני העומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Railay+Beach+קראבי+תאילנד"
+        },
+        {
+          "name": "4 Islands Tour",
+          "type": "שייט",
+          "description": "טיול איים קלאסי באזור קראבי עם עצירות לשנורקל וחופים. (קראבי).",
+          "tips": "קרם הגנה, מים, ונעלי מים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=4+Islands+Tour+קראבי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "7.1",
+      "country": "תאילנד",
+      "location": "קראבי + פוקט",
+      "lodging": "Sabai Hotel Aonang 390 שח",
+      "transfers": [
+        "מעבורת מקראבי לפוקט",
+        "סגור"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: קראבי + פוקט.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Ao Nang Beach",
+          "type": "חוף",
+          "description": "בסיס מצוין ליציאה לטיולי איים ושקיעות. טיילת עם מסעדות. (קראבי + פוקט).",
+          "tips": "לשקיעה להגיע מוקדם לתפוס מקום.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Ao+Nang+Beach+קראבי+++פוקט+תאילנד"
+        },
+        {
+          "name": "Railay Beach",
+          "type": "חוף",
+          "description": "חוף מפורסם עם צוקים, גישה בסירה מאאו נאנג. (קראבי + פוקט).",
+          "tips": "להגיע בבוקר לפני העומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Railay+Beach+קראבי+++פוקט+תאילנד"
+        },
+        {
+          "name": "4 Islands Tour",
+          "type": "שייט",
+          "description": "טיול איים קלאסי באזור קראבי עם עצירות לשנורקל וחופים. (קראבי + פוקט).",
+          "tips": "קרם הגנה, מים, ונעלי מים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=4+Islands+Tour+קראבי+++פוקט+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "8.1",
+      "country": "תאילנד",
+      "location": "פוקט",
+      "lodging": "patong Poshtel 270 שח",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: פוקט.",
+      "places": [
+        {
+          "name": "מופע פנטזי - מתחם הופעות בלילה",
+          "type": "מתחם הופעות בלילה",
+          "description": "מתחם הופעות בלילה. מומלץ לשלב את המקום במסגרת יום רגוע בפוקט ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מופע+פנטזי+פוקט+תאילנד"
+        },
+        {
+          "name": "שייט 4 האיים כולל אי גימס בונד",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בפוקט. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שייט+4+האיים+כולל+אי+גימס+בונד+פוקט+תאילנד"
+        },
+        {
+          "name": "שייט 7 האיים - מפרץ פאנג נגה",
+          "type": "מפרץ פאנג נגה",
+          "description": "מפרץ פאנג נגה. מומלץ לשלב את המקום במסגרת יום רגוע בפוקט ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שייט+7+האיים+פוקט+תאילנד"
+        },
+        {
+          "name": "חוות פילים טיפולית",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בפוקט. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=חוות+פילים+טיפולית+פוקט+תאילנד"
+        },
+        {
+          "name": "אומגות",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בפוקט. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=אומגות+פוקט+תאילנד"
+        },
+        {
+          "name": "הבודהה הגדולה - תצפית",
+          "type": "תצפית",
+          "description": "תצפית. מומלץ לשלב את המקום במסגרת יום רגוע בפוקט ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=הבודהה+הגדולה+פוקט+תאילנד"
+        },
+        {
+          "name": "העיר העתיקה - מקדש צאלונג ופרה טונג",
+          "type": "מקדש צאלונג ופרה טונג",
+          "description": "מקדש צאלונג ופרה טונג. מומלץ לשלב את המקום במסגרת יום רגוע בפוקט ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=העיר+העתיקה+פוקט+תאילנד"
+        },
+        {
+          "name": "דרך באנגלה - רחוב מרכזי בפאטונג",
+          "type": "רחוב מרכזי בפאטונג",
+          "description": "רחוב מרכזי בפאטונג. מומלץ לשלב את המקום במסגרת יום רגוע בפוקט ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=דרך+באנגלה+פוקט+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "9.1",
+      "country": "תאילנד",
+      "location": "פוקט",
+      "lodging": "patong Poshtel 270 שח",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: פוקט.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Old Phuket Town",
+          "type": "אזור",
+          "description": "מרכז היסטורי עם ארכיטקטורה צבעונית, בתי קפה וחנויות. (פוקט).",
+          "tips": "בוקר/אחה״צ נעים. מתאים לצילום.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Old+Phuket+Town+פוקט+תאילנד"
+        },
+        {
+          "name": "Kata Beach",
+          "type": "חוף",
+          "description": "חוף פופולרי ונוח לרחצה עם אווירה רגועה יחסית. (פוקט).",
+          "tips": "בשיא העונה להגיע מוקדם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Kata+Beach+פוקט+תאילנד"
+        },
+        {
+          "name": "Big Buddha Phuket",
+          "type": "תצפית",
+          "description": "נקודת ציון ותצפית על האי מאזור פסל הבודהה הגדול. (פוקט).",
+          "tips": "לבוש צנוע, לבדוק תנאי גישה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Big+Buddha+Phuket+פוקט+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "10.1",
+      "country": "תאילנד",
+      "location": "פוקט + צאנג מאי",
+      "lodging": "patong Poshtel 270 שח",
+      "transfers": [
+        "טיסה מפוקט לצאנג מאי",
+        "סגור"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: פוקט + צאנג מאי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Old Phuket Town",
+          "type": "אזור",
+          "description": "מרכז היסטורי עם ארכיטקטורה צבעונית, בתי קפה וחנויות. (פוקט + צאנג מאי).",
+          "tips": "בוקר/אחה״צ נעים. מתאים לצילום.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Old+Phuket+Town+פוקט+++צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Kata Beach",
+          "type": "חוף",
+          "description": "חוף פופולרי ונוח לרחצה עם אווירה רגועה יחסית. (פוקט + צאנג מאי).",
+          "tips": "בשיא העונה להגיע מוקדם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Kata+Beach+פוקט+++צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Big Buddha Phuket",
+          "type": "תצפית",
+          "description": "נקודת ציון ותצפית על האי מאזור פסל הבודהה הגדול. (פוקט + צאנג מאי).",
+          "tips": "לבוש צנוע, לבדוק תנאי גישה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Big+Buddha+Phuket+פוקט+++צאנג+מאי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "11.1",
+      "country": "תאילנד",
+      "location": "צאנג מאי",
+      "lodging": "patong Poshtel 270 שח",
+      "transfers": [],
+      "restaurants": [
+        "שוק יום ראשון בעיר העתיקה"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: צאנג מאי.",
+      "places": [
+        {
+          "name": "ריבוע העיר העתיקה והמקדשים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בצאנג מאי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=ריבוע+העיר+העתיקה+והמקדשים+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Doi Suthep + wat phra lat - הר מקדשים ומפלים",
+          "type": "הר מקדשים ומפלים",
+          "description": "הר מקדשים ומפלים. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג מאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Doi+Suthep+++wat+phra+lat+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "טיול יום - Doi Inthanon, מקדשים ומפלים",
+          "type": "Doi Inthanon, מקדשים ומפלים",
+          "description": "Doi Inthanon, מקדשים ומפלים. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג מאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+יום+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Skyline adventure - אומגות מטורפות, קצת רחוק",
+          "type": "אומגות מטורפות, קצת רחוק",
+          "description": "אומגות מטורפות, קצת רחוק. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג מאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Skyline+adventure+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "טיול למפלים הדביקים וdontewada - מפלים ובית קפה",
+          "type": "מפלים ובית קפה",
+          "description": "מפלים ובית קפה. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג מאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+למפלים+הדביקים+וdontewada+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "חוות פילים - chai lai orchid",
+          "type": "chai lai orchid",
+          "description": "chai lai orchid. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג מאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=חוות+פילים+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "ראפטינג אקסטרים מטורף",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בצאנג מאי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=ראפטינג+אקסטרים+מטורף+צאנג+מאי+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "12.1",
+      "country": "תאילנד",
+      "location": "צאנג מאי",
+      "lodging": "patong Poshtel 270 שח",
+      "transfers": [],
+      "restaurants": [
+        "נייט באזאר - שוק לילה"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: צאנג מאי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Doi Suthep Temple",
+          "type": "מקדש",
+          "description": "מקדש מפורסם על הר עם תצפית יפה על האזור. (צאנג מאי).",
+          "tips": "להגיע בשעות הבוקר או שקיעה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Doi+Suthep+Temple+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Nimman (Nimmanhaemin)",
+          "type": "אזור",
+          "description": "שכונה מודרנית עם בתי קפה, מסעדות וחנויות. (צאנג מאי).",
+          "tips": "מעולה לערב רגוע.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nimman+(Nimmanhaemin)+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Sunday Night Market",
+          "type": "שוק",
+          "description": "שוק לילה גדול במרכז העיר העתיקה (בימי ראשון). (צאנג מאי).",
+          "tips": "להגיע מוקדם לפני עומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Sunday+Night+Market+צאנג+מאי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "13.1",
+      "country": "תאילנד",
+      "location": "צאנג מאי",
+      "lodging": "patong Poshtel 270 שח",
+      "transfers": [],
+      "restaurants": [
+        "בית קפה - chom café",
+        "varsailles de flore - בית קפה בעיר העתיקה"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: צאנג מאי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Doi Suthep Temple",
+          "type": "מקדש",
+          "description": "מקדש מפורסם על הר עם תצפית יפה על האזור. (צאנג מאי).",
+          "tips": "להגיע בשעות הבוקר או שקיעה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Doi+Suthep+Temple+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Nimman (Nimmanhaemin)",
+          "type": "אזור",
+          "description": "שכונה מודרנית עם בתי קפה, מסעדות וחנויות. (צאנג מאי).",
+          "tips": "מעולה לערב רגוע.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nimman+(Nimmanhaemin)+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Sunday Night Market",
+          "type": "שוק",
+          "description": "שוק לילה גדול במרכז העיר העתיקה (בימי ראשון). (צאנג מאי).",
+          "tips": "להגיע מוקדם לפני עומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Sunday+Night+Market+צאנג+מאי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "14.1",
+      "country": "תאילנד",
+      "location": "צאנג מאי",
+      "lodging": "patong Poshtel 270 שח",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: צאנג מאי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Doi Suthep Temple",
+          "type": "מקדש",
+          "description": "מקדש מפורסם על הר עם תצפית יפה על האזור. (צאנג מאי).",
+          "tips": "להגיע בשעות הבוקר או שקיעה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Doi+Suthep+Temple+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Nimman (Nimmanhaemin)",
+          "type": "אזור",
+          "description": "שכונה מודרנית עם בתי קפה, מסעדות וחנויות. (צאנג מאי).",
+          "tips": "מעולה לערב רגוע.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nimman+(Nimmanhaemin)+צאנג+מאי+תאילנד"
+        },
+        {
+          "name": "Sunday Night Market",
+          "type": "שוק",
+          "description": "שוק לילה גדול במרכז העיר העתיקה (בימי ראשון). (צאנג מאי).",
+          "tips": "להגיע מוקדם לפני עומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Sunday+Night+Market+צאנג+מאי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "15.1",
+      "country": "תאילנד",
+      "location": "צאנג מאי + פאי",
+      "lodging": "patong Poshtel 270 שח",
+      "transfers": [
+        "צריך סגור וואן מצאנג מאי לפאי"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: צאנג מאי + פאי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Doi Suthep Temple",
+          "type": "מקדש",
+          "description": "מקדש מפורסם על הר עם תצפית יפה על האזור. (צאנג מאי + פאי).",
+          "tips": "להגיע בשעות הבוקר או שקיעה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Doi+Suthep+Temple+צאנג+מאי+++פאי+תאילנד"
+        },
+        {
+          "name": "Nimman (Nimmanhaemin)",
+          "type": "אזור",
+          "description": "שכונה מודרנית עם בתי קפה, מסעדות וחנויות. (צאנג מאי + פאי).",
+          "tips": "מעולה לערב רגוע.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nimman+(Nimmanhaemin)+צאנג+מאי+++פאי+תאילנד"
+        },
+        {
+          "name": "Sunday Night Market",
+          "type": "שוק",
+          "description": "שוק לילה גדול במרכז העיר העתיקה (בימי ראשון). (צאנג מאי + פאי).",
+          "tips": "להגיע מוקדם לפני עומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Sunday+Night+Market+צאנג+מאי+++פאי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "16.1",
+      "country": "תאילנד",
+      "location": "פאי",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [
+        "שוק לילה - וואקינג סטריט"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: פאי.",
+      "places": [
+        {
+          "name": "Pai Canyon - קניון עם נופים מטורפים (שקיעה)",
+          "type": "קניון עם נופים מטורפים (שקיעה)",
+          "description": "קניון עם נופים מטורפים (שקיעה). מומלץ לשלב את המקום במסגרת יום רגוע בפאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai+Canyon+פאי+תאילנד"
+        },
+        {
+          "name": "Morpaeng Waterfall - מפלים",
+          "type": "מפלים",
+          "description": "מפלים. מומלץ לשלב את המקום במסגרת יום רגוע בפאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Morpaeng+Waterfall+פאי+תאילנד"
+        },
+        {
+          "name": "Pai Zipline - אומגות",
+          "type": "אומגות",
+          "description": "אומגות. מומלץ לשלב את המקום במסגרת יום רגוע בפאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai+Zipline+פאי+תאילנד"
+        },
+        {
+          "name": "Pam Bok - מפלים ומסלול בטבע",
+          "type": "מפלים ומסלול בטבע",
+          "description": "מפלים ומסלול בטבע. מומלץ לשלב את המקום במסגרת יום רגוע בפאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pam+Bok+פאי+תאילנד"
+        },
+        {
+          "name": "Wat Phra That Mae Yen - מקדש בודהה לבנה ותצפית על פאי והאיזור",
+          "type": "מקדש בודהה לבנה ותצפית על פאי והאיזור",
+          "description": "מקדש בודהה לבנה ותצפית על פאי והאיזור. מומלץ לשלב את המקום במסגרת יום רגוע בפאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Wat+Phra+That+Mae+Yen+פאי+תאילנד"
+        },
+        {
+          "name": "גשר במבוק - Kho Ku So Bamboo Bridge",
+          "type": "Kho Ku So Bamboo Bridge",
+          "description": "Kho Ku So Bamboo Bridge. מומלץ לשלב את המקום במסגרת יום רגוע בפאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=גשר+במבוק+פאי+תאילנד"
+        },
+        {
+          "name": "Mae Yen Waterfall - מפלים טיול כמה שעות",
+          "type": "מפלים טיול כמה שעות",
+          "description": "מפלים טיול כמה שעות. מומלץ לשלב את המקום במסגרת יום רגוע בפאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Mae+Yen+Waterfall+פאי+תאילנד"
+        },
+        {
+          "name": "yun lai, Two Huts Pai - תצפיות",
+          "type": "תצפיות",
+          "description": "תצפיות. מומלץ לשלב את המקום במסגרת יום רגוע בפאי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=yun+lai,+Two+Huts+Pai+פאי+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "17.1",
+      "country": "תאילנד",
+      "location": "פאי",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: פאי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Pai Canyon",
+          "type": "תצפית",
+          "description": "תצפית יפה עם מסלול קצר יחסית, במיוחד בשקיעה. (פאי).",
+          "tips": "נעליים נוחות וזהירות על השבילים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai+Canyon+פאי+תאילנד"
+        },
+        {
+          "name": "Pai Walking Street",
+          "type": "שוק",
+          "description": "רחוב שוק בערב עם אוכל, מזכרות ואווירה. (פאי).",
+          "tips": "להגיע אחרי 18:00.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai+Walking+Street+פאי+תאילנד"
+        },
+        {
+          "name": "Hot Springs (Pai)",
+          "type": "טבע",
+          "description": "מעיינות חמים באזור פאי, טוב לרגיעה. (פאי).",
+          "tips": "להביא בגד ים ומגבת.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Hot+Springs+(Pai)+פאי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "18.1",
+      "country": "תאילנד",
+      "location": "פאי",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: פאי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Pai Canyon",
+          "type": "תצפית",
+          "description": "תצפית יפה עם מסלול קצר יחסית, במיוחד בשקיעה. (פאי).",
+          "tips": "נעליים נוחות וזהירות על השבילים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai+Canyon+פאי+תאילנד"
+        },
+        {
+          "name": "Pai Walking Street",
+          "type": "שוק",
+          "description": "רחוב שוק בערב עם אוכל, מזכרות ואווירה. (פאי).",
+          "tips": "להגיע אחרי 18:00.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai+Walking+Street+פאי+תאילנד"
+        },
+        {
+          "name": "Hot Springs (Pai)",
+          "type": "טבע",
+          "description": "מעיינות חמים באזור פאי, טוב לרגיעה. (פאי).",
+          "tips": "להביא בגד ים ומגבת.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Hot+Springs+(Pai)+פאי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "19.1",
+      "country": "תאילנד",
+      "location": "פאי + צאנג ראי",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "וואן מפאי לצאנג מאי",
+        "וואן / אוטובוס מצאנג מאי לצאנג ראי"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: פאי + צאנג ראי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Pai Canyon",
+          "type": "תצפית",
+          "description": "תצפית יפה עם מסלול קצר יחסית, במיוחד בשקיעה. (פאי + צאנג ראי).",
+          "tips": "נעליים נוחות וזהירות על השבילים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai+Canyon+פאי+++צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "Pai Walking Street",
+          "type": "שוק",
+          "description": "רחוב שוק בערב עם אוכל, מזכרות ואווירה. (פאי + צאנג ראי).",
+          "tips": "להגיע אחרי 18:00.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pai+Walking+Street+פאי+++צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "Hot Springs (Pai)",
+          "type": "טבע",
+          "description": "מעיינות חמים באזור פאי, טוב לרגיעה. (פאי + צאנג ראי).",
+          "tips": "להביא בגד ים ומגבת.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Hot+Springs+(Pai)+פאי+++צאנג+ראי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "20.1",
+      "country": "תאילנד",
+      "location": "צאנג ראי",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [
+        "lalita café - בית קפה"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: צאנג ראי.",
+      "places": [
+        {
+          "name": "Chiang Rai Night Bazaar - שוק אוכל וקניות",
+          "type": "שוק אוכל וקניות",
+          "description": "שוק אוכל וקניות. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג ראי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Chiang+Rai+Night+Bazaar+צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "Khun Korn Waterfall - מפלים",
+          "type": "מפלים",
+          "description": "מפלים. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג ראי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Khun+Korn+Waterfall+צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "אופציה לטיול יום לנק הרשומות -",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בצאנג ראי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=אופציה+לטיול+יום+לנק+הרשומות+צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "Wat Rong Khun - המקדש הלבן",
+          "type": "המקדש הלבן",
+          "description": "המקדש הלבן. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג ראי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Wat+Rong+Khun+צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "Wat Rong Suea Ten - המקדש הכחול",
+          "type": "המקדש הכחול",
+          "description": "המקדש הכחול. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג ראי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Wat+Rong+Suea+Ten+צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "תצפית דוי טונג - לוודא שחלק מהטיול",
+          "type": "לוודא שחלק מהטיול",
+          "description": "לוודא שחלק מהטיול. מומלץ לשלב את המקום במסגרת יום רגוע בצאנג ראי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=תצפית+דוי+טונג+צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "Choui Fong Tea  - שדות תה (לשלב עם דוי טונג)",
+          "type": "שדות תה (לשלב עם דוי טונג)",
+          "description": "שדות תה (לשלב עם דוי טונג). מומלץ לשלב את המקום במסגרת יום רגוע בצאנג ראי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Choui+Fong+Tea+צאנג+ראי+תאילנד"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "21.1",
+      "country": "תאילנד",
+      "location": "צאנג ראי",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: צאנג ראי.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "White Temple (Wat Rong Khun)",
+          "type": "מקדש",
+          "description": "מקדש מודרני לבן ומרשים, אחד הסמלים של צ׳אנג ראי. (צאנג ראי).",
+          "tips": "להגיע מוקדם ולהיערך לתור.",
+          "website": "https://www.google.com/maps/search/?api=1&query=White+Temple+(Wat+Rong+Khun)+צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "Blue Temple (Wat Rong Suea Ten)",
+          "type": "מקדש",
+          "description": "מקדש כחול צבעוני ומיוחד. (צאנג ראי).",
+          "tips": "ביקור קצר ונוח.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Blue+Temple+(Wat+Rong+Suea+Ten)+צאנג+ראי+תאילנד"
+        },
+        {
+          "name": "Night Bazaar Chiang Rai",
+          "type": "שוק",
+          "description": "שוק ערב עם אוכל ומוזיקה. (צאנג ראי).",
+          "tips": "טוב לארוחת ערב קלה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Night+Bazaar+Chiang+Rai+צאנג+ראי+תאילנד"
+        }
+      ]
+    },
+    {
+      "date": "22.1",
+      "country": "לאוס",
+      "location": "צאנג ראי + לואנג פראבנג לאוס",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "צריך לסגור מעבר קרקעי - המעבר לוקח בין יום ליומיים. סוכנות נסיעות מקומית."
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: צאנג ראי + לואנג פראבנג לאוס.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "White Temple (Wat Rong Khun)",
+          "type": "מקדש",
+          "description": "מקדש מודרני לבן ומרשים, אחד הסמלים של צ׳אנג ראי. (צאנג ראי + לואנג פראבנג לאוס).",
+          "tips": "להגיע מוקדם ולהיערך לתור.",
+          "website": "https://www.google.com/maps/search/?api=1&query=White+Temple+(Wat+Rong+Khun)+צאנג+ראי+++לואנג+פראבנג+לאוס+לאוס"
+        },
+        {
+          "name": "Blue Temple (Wat Rong Suea Ten)",
+          "type": "מקדש",
+          "description": "מקדש כחול צבעוני ומיוחד. (צאנג ראי + לואנג פראבנג לאוס).",
+          "tips": "ביקור קצר ונוח.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Blue+Temple+(Wat+Rong+Suea+Ten)+צאנג+ראי+++לואנג+פראבנג+לאוס+לאוס"
+        },
+        {
+          "name": "Night Bazaar Chiang Rai",
+          "type": "שוק",
+          "description": "שוק ערב עם אוכל ומוזיקה. (צאנג ראי + לואנג פראבנג לאוס).",
+          "tips": "טוב לארוחת ערב קלה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Night+Bazaar+Chiang+Rai+צאנג+ראי+++לואנג+פראבנג+לאוס+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "23.1",
+      "country": "לאוס",
+      "location": "לואנג פראבנג",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [
+        "שוק לילה מטורף"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לואנג פראבנג.",
+      "places": [
+        {
+          "name": "מפלי קונג סי - Kuang Si Waterfall",
+          "type": "Kuang Si Waterfall",
+          "description": "Kuang Si Waterfall. מומלץ לשלב את המקום במסגרת יום רגוע בלואנג פראבנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מפלי+קונג+סי+לואנג+פראבנג+לאוס"
+        },
+        {
+          "name": "הר פו סי - שקיעה וארוחה",
+          "type": "שקיעה וארוחה",
+          "description": "שקיעה וארוחה. מומלץ לשלב את המקום במסגרת יום רגוע בלואנג פראבנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=הר+פו+סי+לואנג+פראבנג+לאוס"
+        },
+        {
+          "name": "סיור בכפר הפילים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בלואנג פראבנג. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=סיור+בכפר+הפילים+לואנג+פראבנג+לאוס"
+        },
+        {
+          "name": "Royal Palace Museum - מוזיאון לאומי",
+          "type": "מוזיאון לאומי",
+          "description": "מוזיאון לאומי. מומלץ לשלב את המקום במסגרת יום רגוע בלואנג פראבנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Royal+Palace+Museum+לואנג+פראבנג+לאוס"
+        },
+        {
+          "name": "מפלי Tad Sae - מפלים קטנים ובריכות",
+          "type": "מפלים קטנים ובריכות",
+          "description": "מפלים קטנים ובריכות. מומלץ לשלב את המקום במסגרת יום רגוע בלואנג פראבנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מפלי+Tad+Sae+לואנג+פראבנג+לאוס"
+        },
+        {
+          "name": "מקדשים - מקדש וואט סיאנג תונג",
+          "type": "מקדש וואט סיאנג תונג",
+          "description": "מקדש וואט סיאנג תונג. מומלץ לשלב את המקום במסגרת יום רגוע בלואנג פראבנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מקדשים+לואנג+פראבנג+לאוס"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "24.1",
+      "country": "לאוס",
+      "location": "לואנג פראבנג",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לואנג פראבנג.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Kuang Si Falls",
+          "type": "טבע",
+          "description": "מפלים יפים עם מים בצבע טורקיז ובריכות לשכשוך. (לואנג פראבנג).",
+          "tips": "להגיע מוקדם, להביא מגבת.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Kuang+Si+Falls+לואנג+פראבנג+לאוס"
+        },
+        {
+          "name": "Mount Phousi",
+          "type": "תצפית",
+          "description": "עלייה קצרה לתצפית על העיר והנהרות. (לואנג פראבנג).",
+          "tips": "שקיעה מומלצת, לקחת מים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Mount+Phousi+לואנג+פראבנג+לאוס"
+        },
+        {
+          "name": "Night Market Luang Prabang",
+          "type": "שוק",
+          "description": "שוק לילה מרכזי עם אוכל ומלאכת יד. (לואנג פראבנג).",
+          "tips": "לערב רגוע וקניות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Night+Market+Luang+Prabang+לואנג+פראבנג+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "25.1",
+      "country": "לאוס",
+      "location": "לואנג פראבנג + נונג קיאו",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "צריך לסגור וואן / שייט בנהר"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: לואנג פראבנג + נונג קיאו.",
+      "places": [
+        {
+          "name": "טיול 100 המפלים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בלואנג פראבנג + נונג קיאו. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+100+המפלים+לואנג+פראבנג+++נונג+קיאו+לאוס"
+        },
+        {
+          "name": "מסלול מאורגן ליום / יומיים - שייט, טיולים, כפר נידח",
+          "type": "שייט, טיולים, כפר נידח",
+          "description": "שייט, טיולים, כפר נידח. מומלץ לשלב את המקום במסגרת יום רגוע בלואנג פראבנג + נונג קיאו ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מסלול+מאורגן+ליום+/+יומיים+לואנג+פראבנג+++נונג+קיאו+לאוס"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "26.1",
+      "country": "לאוס",
+      "location": "נונג קיאו",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: נונג קיאו.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Viewpoint Nong Khiaw",
+          "type": "תצפית",
+          "description": "תצפית על הנוף ההררי והנהר. דורש עלייה אך משתלמת. (נונג קיאו).",
+          "tips": "לעלות מוקדם או אחה״צ. נעליים טובות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Viewpoint+Nong+Khiaw+נונג+קיאו+לאוס"
+        },
+        {
+          "name": "River Walk",
+          "type": "טבע",
+          "description": "הליכה רגועה לאורך הנהר והכפר. (נונג קיאו).",
+          "tips": "מתאים לבוקר רגוע.",
+          "website": "https://www.google.com/maps/search/?api=1&query=River+Walk+נונג+קיאו+לאוס"
+        },
+        {
+          "name": "Boat on Nam Ou",
+          "type": "שייט",
+          "description": "שייט/מעבר על נהר נאם או בנופים כפריים. (נונג קיאו).",
+          "tips": "לתאם מראש ולשמור כובע/מים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Boat+on+Nam+Ou+נונג+קיאו+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "27.1",
+      "country": "לאוס",
+      "location": "נונג קיאו",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: נונג קיאו.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Viewpoint Nong Khiaw",
+          "type": "תצפית",
+          "description": "תצפית על הנוף ההררי והנהר. דורש עלייה אך משתלמת. (נונג קיאו).",
+          "tips": "לעלות מוקדם או אחה״צ. נעליים טובות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Viewpoint+Nong+Khiaw+נונג+קיאו+לאוס"
+        },
+        {
+          "name": "River Walk",
+          "type": "טבע",
+          "description": "הליכה רגועה לאורך הנהר והכפר. (נונג קיאו).",
+          "tips": "מתאים לבוקר רגוע.",
+          "website": "https://www.google.com/maps/search/?api=1&query=River+Walk+נונג+קיאו+לאוס"
+        },
+        {
+          "name": "Boat on Nam Ou",
+          "type": "שייט",
+          "description": "שייט/מעבר על נהר נאם או בנופים כפריים. (נונג קיאו).",
+          "tips": "לתאם מראש ולשמור כובע/מים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Boat+on+Nam+Ou+נונג+קיאו+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "28.1",
+      "country": "לאוס",
+      "location": "נונג קיאו + ואנג ויאנג",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "לסגור וואן ללואנג פרבנג ומשם רכבת לואנג ויאנג"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: נונג קיאו + ואנג ויאנג.",
+      "places": [
+        {
+          "name": "טיובינג - שייט באבובים בין ברים",
+          "type": "שייט באבובים בין ברים",
+          "description": "שייט באבובים בין ברים. מומלץ לשלב את המקום במסגרת יום רגוע בנונג קיאו + ואנג ויאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיובינג+נונג+קיאו+++ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "טיול בלגונה הכחולה ובמערת טאם פו קאם",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בנונג קיאו + ואנג ויאנג. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+בלגונה+הכחולה+ובמערת+טאם+פו+קאם+נונג+קיאו+++ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "לגונות - 2, 4, 5, 3? - הן המומלצות",
+          "type": "2, 4, 5, 3? - הן המומלצות",
+          "description": "2, 4, 5, 3? - הן המומלצות. מומלץ לשלב את המקום במסגרת יום רגוע בנונג קיאו + ואנג ויאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=לגונות+נונג+קיאו+++ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "מערת טאם נאם - שייט במערה",
+          "type": "שייט במערה",
+          "description": "שייט במערה. מומלץ לשלב את המקום במסגרת יום רגוע בנונג קיאו + ואנג ויאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מערת+טאם+נאם+נונג+קיאו+++ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "תצפית מדהימה - נאמשאי",
+          "type": "נאמשאי",
+          "description": "נאמשאי. מומלץ לשלב את המקום במסגרת יום רגוע בנונג קיאו + ואנג ויאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=תצפית+מדהימה+נונג+קיאו+++ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "tham chang - מערה קרובה מרשימה",
+          "type": "מערה קרובה מרשימה",
+          "description": "מערה קרובה מרשימה. מומלץ לשלב את המקום במסגרת יום רגוע בנונג קיאו + ואנג ויאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=tham+chang+נונג+קיאו+++ואנג+ויאנג+לאוס"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "29.1",
+      "country": "לאוס",
+      "location": "ואנג ויאנג",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: ואנג ויאנג.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Nam Song River",
+          "type": "טבע",
+          "description": "נהר מרכזי עם נופים קרסטיים, אפשרויות שייט וקיאקים. (ואנג ויאנג).",
+          "tips": "לבדוק תנאי מזג אוויר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nam+Song+River+ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "Blue Lagoon",
+          "type": "טבע",
+          "description": "בריכת טבע פופולרית באזור ואנג ויאנג. (ואנג ויאנג).",
+          "tips": "להגיע מוקדם כדי להימנע מעומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Blue+Lagoon+ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "Pha Ngern Viewpoint",
+          "type": "תצפית",
+          "description": "תצפית יפה על העמק וההרים. (ואנג ויאנג).",
+          "tips": "נעליים נוחות, עלייה לא קלה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pha+Ngern+Viewpoint+ואנג+ויאנג+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "30.1",
+      "country": "לאוס",
+      "location": "ואנג ויאנג",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: ואנג ויאנג.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Nam Song River",
+          "type": "טבע",
+          "description": "נהר מרכזי עם נופים קרסטיים, אפשרויות שייט וקיאקים. (ואנג ויאנג).",
+          "tips": "לבדוק תנאי מזג אוויר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nam+Song+River+ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "Blue Lagoon",
+          "type": "טבע",
+          "description": "בריכת טבע פופולרית באזור ואנג ויאנג. (ואנג ויאנג).",
+          "tips": "להגיע מוקדם כדי להימנע מעומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Blue+Lagoon+ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "Pha Ngern Viewpoint",
+          "type": "תצפית",
+          "description": "תצפית יפה על העמק וההרים. (ואנג ויאנג).",
+          "tips": "נעליים נוחות, עלייה לא קלה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pha+Ngern+Viewpoint+ואנג+ויאנג+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "31.1",
+      "country": "לאוס",
+      "location": "ואנג ויאנג",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: ואנג ויאנג.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Nam Song River",
+          "type": "טבע",
+          "description": "נהר מרכזי עם נופים קרסטיים, אפשרויות שייט וקיאקים. (ואנג ויאנג).",
+          "tips": "לבדוק תנאי מזג אוויר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nam+Song+River+ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "Blue Lagoon",
+          "type": "טבע",
+          "description": "בריכת טבע פופולרית באזור ואנג ויאנג. (ואנג ויאנג).",
+          "tips": "להגיע מוקדם כדי להימנע מעומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Blue+Lagoon+ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "Pha Ngern Viewpoint",
+          "type": "תצפית",
+          "description": "תצפית יפה על העמק וההרים. (ואנג ויאנג).",
+          "tips": "נעליים נוחות, עלייה לא קלה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pha+Ngern+Viewpoint+ואנג+ויאנג+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "1.2",
+      "country": "לאוס",
+      "location": "ואנג ויאנג",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: ואנג ויאנג.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Nam Song River",
+          "type": "טבע",
+          "description": "נהר מרכזי עם נופים קרסטיים, אפשרויות שייט וקיאקים. (ואנג ויאנג).",
+          "tips": "לבדוק תנאי מזג אוויר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nam+Song+River+ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "Blue Lagoon",
+          "type": "טבע",
+          "description": "בריכת טבע פופולרית באזור ואנג ויאנג. (ואנג ויאנג).",
+          "tips": "להגיע מוקדם כדי להימנע מעומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Blue+Lagoon+ואנג+ויאנג+לאוס"
+        },
+        {
+          "name": "Pha Ngern Viewpoint",
+          "type": "תצפית",
+          "description": "תצפית יפה על העמק וההרים. (ואנג ויאנג).",
+          "tips": "נעליים נוחות, עלייה לא קלה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pha+Ngern+Viewpoint+ואנג+ויאנג+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "2.2",
+      "country": "לאוס",
+      "location": "ואנג ויאנג + ויאנטין",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "רכבת לויאנטין"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: ואנג ויאנג + ויאנטין.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Nam Song River",
+          "type": "טבע",
+          "description": "נהר מרכזי עם נופים קרסטיים, אפשרויות שייט וקיאקים. (ואנג ויאנג + ויאנטין).",
+          "tips": "לבדוק תנאי מזג אוויר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Nam+Song+River+ואנג+ויאנג+++ויאנטין+לאוס"
+        },
+        {
+          "name": "Blue Lagoon",
+          "type": "טבע",
+          "description": "בריכת טבע פופולרית באזור ואנג ויאנג. (ואנג ויאנג + ויאנטין).",
+          "tips": "להגיע מוקדם כדי להימנע מעומס.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Blue+Lagoon+ואנג+ויאנג+++ויאנטין+לאוס"
+        },
+        {
+          "name": "Pha Ngern Viewpoint",
+          "type": "תצפית",
+          "description": "תצפית יפה על העמק וההרים. (ואנג ויאנג + ויאנטין).",
+          "tips": "נעליים נוחות, עלייה לא קלה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pha+Ngern+Viewpoint+ואנג+ויאנג+++ויאנטין+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "3.2",
+      "country": "לאוס",
+      "location": "ויאנטין",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [
+        "טיילת המקונג - טיילת על הנהר עם מלא אוכל"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: ויאנטין.",
+      "places": [
+        {
+          "name": "wat si saket - מתחם מקדשים",
+          "type": "מתחם מקדשים",
+          "description": "מתחם מקדשים. מומלץ לשלב את המקום במסגרת יום רגוע בויאנטין ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=wat+si+saket+ויאנטין+לאוס"
+        },
+        {
+          "name": "patuxai - שער הניצחון",
+          "type": "שער הניצחון",
+          "description": "שער הניצחון. מומלץ לשלב את המקום במסגרת יום רגוע בויאנטין ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=patuxai+ויאנטין+לאוס"
+        },
+        {
+          "name": "that luang -מקדש מרכזי",
+          "type": "מקדש מרכזי",
+          "description": "מקדש מרכזי. מומלץ לשלב את המקום במסגרת יום רגוע בויאנטין ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=that+luang+ויאנטין+לאוס"
+        },
+        {
+          "name": "פארק הבודהה - מחוץ לויאנטין",
+          "type": "מחוץ לויאנטין",
+          "description": "מחוץ לויאנטין. מומלץ לשלב את המקום במסגרת יום רגוע בויאנטין ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=פארק+הבודהה+ויאנטין+לאוס"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "4.2",
+      "country": "לאוס",
+      "location": "ויאנטין + תאקק",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "לסגור סליפר / נסיעה באוטובוס במהלך היום"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: ויאנטין + תאקק.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Pha That Luang",
+          "type": "אתר",
+          "description": "הסטופה הלאומית המרכזית של לאוס. (ויאנטין + תאקק).",
+          "tips": "לבוש צנוע, ביקור קצר ונוח.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pha+That+Luang+ויאנטין+++תאקק+לאוס"
+        },
+        {
+          "name": "Patuxai",
+          "type": "אתר",
+          "description": "שער הניצחון של ויאנטין עם תצפית מהחלק העליון. (ויאנטין + תאקק).",
+          "tips": "להגיע אחה״צ.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Patuxai+ויאנטין+++תאקק+לאוס"
+        },
+        {
+          "name": "Mekong Riverside",
+          "type": "טיילת",
+          "description": "טיילת לאורך נהר המקונג עם דוכנים ואווירה בערב. (ויאנטין + תאקק).",
+          "tips": "מתאים לשקיעה.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Mekong+Riverside+ויאנטין+++תאקק+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "5.2",
+      "country": "לאוס",
+      "location": "לופ תאקק",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "טוסטוס?"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: לופ תאקק.",
+      "places": [
+        {
+          "name": "https://mizrah.co.il/%D7%98%D7%94-%D7%A7%D7%A7-thakhek-2/",
+          "type": "%D7%A7%D7%A7-thakhek-2/",
+          "description": "%D7%A7%D7%A7-thakhek-2/. מומלץ לשלב את המקום במסגרת יום רגוע בלופ תאקק ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=https://mizrah.co.il/%D7%98%D7%94+לופ+תאקק+לאוס"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "6.2",
+      "country": "לאוס",
+      "location": "לופ תאקק",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לופ תאקק.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Thakhek Loop - Scenic Stops",
+          "type": "מסלול",
+          "description": "מסלול אופנוע/רכב מפורסם עם מערות, תצפיות וכפרים. (לופ תאקק).",
+          "tips": "להקפיד על בטיחות וציוד, לתכנן עצירות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Thakhek+Loop+-+Scenic+Stops+לופ+תאקק+לאוס"
+        },
+        {
+          "name": "Kong Lor Cave",
+          "type": "מערה",
+          "description": "מערה גדולה ומרשימה (אם כלולה במסלול שלך). (לופ תאקק).",
+          "tips": "לתאם שעות וציוד מתאים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Kong+Lor+Cave+לופ+תאקק+לאוס"
+        },
+        {
+          "name": "Local Night Market",
+          "type": "שוק",
+          "description": "שוק ערב מקומי לאוכל פשוט וחוויה מקומית. (לופ תאקק).",
+          "tips": "לנסות מנות מקומיות בזהירות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Local+Night+Market+לופ+תאקק+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "7.2",
+      "country": "לאוס",
+      "location": "לופ תאקק",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לופ תאקק.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Thakhek Loop - Scenic Stops",
+          "type": "מסלול",
+          "description": "מסלול אופנוע/רכב מפורסם עם מערות, תצפיות וכפרים. (לופ תאקק).",
+          "tips": "להקפיד על בטיחות וציוד, לתכנן עצירות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Thakhek+Loop+-+Scenic+Stops+לופ+תאקק+לאוס"
+        },
+        {
+          "name": "Kong Lor Cave",
+          "type": "מערה",
+          "description": "מערה גדולה ומרשימה (אם כלולה במסלול שלך). (לופ תאקק).",
+          "tips": "לתאם שעות וציוד מתאים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Kong+Lor+Cave+לופ+תאקק+לאוס"
+        },
+        {
+          "name": "Local Night Market",
+          "type": "שוק",
+          "description": "שוק ערב מקומי לאוכל פשוט וחוויה מקומית. (לופ תאקק).",
+          "tips": "לנסות מנות מקומיות בזהירות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Local+Night+Market+לופ+תאקק+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "8.2",
+      "country": "לאוס",
+      "location": "תאקק + פאקסה",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "לסגור אוטובוס / סליפר / מיני ואן"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: תאקק + פאקסה.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Thakhek Loop - Scenic Stops",
+          "type": "מסלול",
+          "description": "מסלול אופנוע/רכב מפורסם עם מערות, תצפיות וכפרים. (תאקק + פאקסה).",
+          "tips": "להקפיד על בטיחות וציוד, לתכנן עצירות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Thakhek+Loop+-+Scenic+Stops+תאקק+++פאקסה+לאוס"
+        },
+        {
+          "name": "Kong Lor Cave",
+          "type": "מערה",
+          "description": "מערה גדולה ומרשימה (אם כלולה במסלול שלך). (תאקק + פאקסה).",
+          "tips": "לתאם שעות וציוד מתאים.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Kong+Lor+Cave+תאקק+++פאקסה+לאוס"
+        },
+        {
+          "name": "Local Night Market",
+          "type": "שוק",
+          "description": "שוק ערב מקומי לאוכל פשוט וחוויה מקומית. (תאקק + פאקסה).",
+          "tips": "לנסות מנות מקומיות בזהירות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Local+Night+Market+תאקק+++פאקסה+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "9.2",
+      "country": "לאוס",
+      "location": "לופ פקסה",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "טוסטוס?"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: לופ פקסה.",
+      "places": [
+        {
+          "name": "https://eastcardil.co.il/loop-pakse-laos/",
+          "type": "pakse-laos/",
+          "description": "pakse-laos/. מומלץ לשלב את המקום במסגרת יום רגוע בלופ פקסה ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=https://eastcardil.co.il/loop+לופ+פקסה+לאוס"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "10.2",
+      "country": "לאוס",
+      "location": "לופ פקסה",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לופ פקסה.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Pakse Loop - Plateau Highlights",
+          "type": "מסלול",
+          "description": "מסלול פופולרי בדרום לאוס עם מפלים, מטעים ונופים. (לופ פקסה).",
+          "tips": "לתכנן ימים, לא למהר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pakse+Loop+-+Plateau+Highlights+לופ+פקסה+לאוס"
+        },
+        {
+          "name": "Tad Fane Waterfall",
+          "type": "מפל",
+          "description": "מפל מרשים באזור רמת בולאבן. (לופ פקסה).",
+          "tips": "קרוב לנקודות תצפית, להביא מעיל קל בגשם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Tad+Fane+Waterfall+לופ+פקסה+לאוס"
+        },
+        {
+          "name": "Wat Phou",
+          "type": "אתר היסטורי",
+          "description": "אתר מורשת היסטורי בדרום לאוס (אם מופיע בתוכנית). (לופ פקסה).",
+          "tips": "לבוש נוח והגעה בשעות בוקר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Wat+Phou+לופ+פקסה+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "11.2",
+      "country": "לאוס",
+      "location": "לופ פקסה",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לופ פקסה.",
+      "places": [],
+      "suggestions": [
+        {
+          "name": "Pakse Loop - Plateau Highlights",
+          "type": "מסלול",
+          "description": "מסלול פופולרי בדרום לאוס עם מפלים, מטעים ונופים. (לופ פקסה).",
+          "tips": "לתכנן ימים, לא למהר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pakse+Loop+-+Plateau+Highlights+לופ+פקסה+לאוס"
+        },
+        {
+          "name": "Tad Fane Waterfall",
+          "type": "מפל",
+          "description": "מפל מרשים באזור רמת בולאבן. (לופ פקסה).",
+          "tips": "קרוב לנקודות תצפית, להביא מעיל קל בגשם.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Tad+Fane+Waterfall+לופ+פקסה+לאוס"
+        },
+        {
+          "name": "Wat Phou",
+          "type": "אתר היסטורי",
+          "description": "אתר מורשת היסטורי בדרום לאוס (אם מופיע בתוכנית). (לופ פקסה).",
+          "tips": "לבוש נוח והגעה בשעות בוקר.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Wat+Phou+לופ+פקסה+לאוס"
+        }
+      ]
+    },
+    {
+      "date": "12.2",
+      "country": "",
+      "location": "פאקסה + דון דאט",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "אוטובוס / וואן ומעבורת קצרה"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: פאקסה + דון דאט.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "13.2",
+      "country": "",
+      "location": "דון דאט",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "התניידות בעיקר באופניים"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: דון דאט.",
+      "places": [
+        {
+          "name": "Li Phi Somphamit Waterfalls - מפלים מטורפים",
+          "type": "מפלים מטורפים",
+          "description": "מפלים מטורפים. מומלץ לשלב את המקום במסגרת יום רגוע בדון דאט ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Li+Phi+Somphamit+Waterfalls+דון+דאט"
+        },
+        {
+          "name": "Khong Phapheng - מפלים עצומים (קצת רחוקים)",
+          "type": "מפלים עצומים (קצת רחוקים)",
+          "description": "מפלים עצומים (קצת רחוקים). מומלץ לשלב את המקום במסגרת יום רגוע בדון דאט ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=Khong+Phapheng+דון+דאט"
+        },
+        {
+          "name": "טיול באופניים ברחבי האי + האי דון קון",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בדון דאט. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+באופניים+ברחבי+האי+++האי+דון+קון+דון+דאט"
+        },
+        {
+          "name": "שייט בנהר המקונג",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בדון דאט. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שייט+בנהר+המקונג+דון+דאט"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "14.2",
+      "country": "",
+      "location": "דון דאט",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: דון דאט.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "15.2",
+      "country": "",
+      "location": "דון דאט + סיאם ריפ",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "אוטובוס סליפר / וואן - מעבר גבול"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: דון דאט + סיאם ריפ.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "16.2",
+      "country": "",
+      "location": "סיאם ריפ",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סיאם ריפ.",
+      "places": [
+        {
+          "name": "מקדשי אנגקור",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בסיאם ריפ. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מקדשי+אנגקור+סיאם+ריפ"
+        },
+        {
+          "name": "ביקור באגם טונלה סאפ והכפר הצף",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בסיאם ריפ. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=ביקור+באגם+טונלה+סאפ+והכפר+הצף+סיאם+ריפ"
+        },
+        {
+          "name": "קרקס קמבודי",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בסיאם ריפ. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=קרקס+קמבודי+סיאם+ריפ"
+        },
+        {
+          "name": "טיול יום - פארק קולן - נוף וטבע מטורף ומפלים",
+          "type": "פארק קולן - נוף וטבע מטורף ומפלים",
+          "description": "פארק קולן - נוף וטבע מטורף ומפלים. מומלץ לשלב את המקום במסגרת יום רגוע בסיאם ריפ ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+יום+סיאם+ריפ"
+        },
+        {
+          "name": "שווקי לילה - אוכל וברים",
+          "type": "אוכל וברים",
+          "description": "אוכל וברים. מומלץ לשלב את המקום במסגרת יום רגוע בסיאם ריפ ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שווקי+לילה+סיאם+ריפ"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "17.2",
+      "country": "",
+      "location": "סיאם ריפ",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סיאם ריפ.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "18.2",
+      "country": "",
+      "location": "סיאם ריפ",
+      "lodging": "אישור השוק לילה",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סיאם ריפ.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "19.2",
+      "country": "",
+      "location": "סיאם ריפ + הו צי מין (סייגון)",
+      "lodging": "אישור השוק לילה",
+      "transfers": [
+        "אוטובוס סליפר / טיסה"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: סיאם ריפ + הו צי מין (סייגון).",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "20.2",
+      "country": "",
+      "location": "הו צי מין",
+      "lodging": "רובע -1 / 3",
+      "transfers": [],
+      "restaurants": [
+        "שוק בין טאי",
+        "Bui Vien Street"
+      ],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: הו צי מין.",
+      "places": [
+        {
+          "name": "שייט בנהר המקונן",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהו צי מין. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שייט+בנהר+המקונן+הו+צי+מין"
+        },
+        {
+          "name": "מנהרות המלחמה - מחוץ לעיר",
+          "type": "מחוץ לעיר",
+          "description": "מחוץ לעיר. מומלץ לשלב את המקום במסגרת יום רגוע בהו צי מין ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מנהרות+המלחמה+הו+צי+מין"
+        },
+        {
+          "name": "בניין הדואר הישן",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהו צי מין. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=בניין+הדואר+הישן+הו+צי+מין"
+        },
+        {
+          "name": "קטדרלת נוטרדם",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהו צי מין. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=קטדרלת+נוטרדם+הו+צי+מין"
+        },
+        {
+          "name": "מקדש קאו דאי",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהו צי מין. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מקדש+קאו+דאי+הו+צי+מין"
+        },
+        {
+          "name": "מוזיאון המלחמה - War Remnants Museum",
+          "type": "War Remnants Museum",
+          "description": "War Remnants Museum. מומלץ לשלב את המקום במסגרת יום רגוע בהו צי מין ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מוזיאון+המלחמה+הו+צי+מין"
+        },
+        {
+          "name": "ארמון האיחוד (Reunification Palace)",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהו צי מין. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=ארמון+האיחוד+(Reunification+Palace)+הו+צי+מין"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "21.2",
+      "country": "",
+      "location": "הו צי מין",
+      "lodging": "רובע -1 / 3",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: הו צי מין.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "22.2",
+      "country": "",
+      "location": "הו צי מין + דאלאת",
+      "lodging": "רובע -1 / 3",
+      "transfers": [
+        "סליפר"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: הו צי מין + דאלאת.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "23.2",
+      "country": "",
+      "location": "דאלאת",
+      "lodging": "רובע -1 / 3",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: דאלאת.",
+      "places": [
+        {
+          "name": "גן הפרחים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בדאלאת. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=גן+הפרחים+דאלאת"
+        },
+        {
+          "name": "שוק הלילה",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בדאלאת. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שוק+הלילה+דאלאת"
+        },
+        {
+          "name": "הבית המשוגע - בית בעיצוב מטורף",
+          "type": "בית בעיצוב מטורף",
+          "description": "בית בעיצוב מטורף. מומלץ לשלב את המקום במסגרת יום רגוע בדאלאת ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=הבית+המשוגע+דאלאת"
+        },
+        {
+          "name": "datanla waterfalls - מפלי דאטלן",
+          "type": "מפלי דאטלן",
+          "description": "מפלי דאטלן. מומלץ לשלב את המקום במסגרת יום רגוע בדאלאת ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=datanla+waterfalls+דאלאת"
+        },
+        {
+          "name": "xuan huong - אגם סואן הונג",
+          "type": "אגם סואן הונג",
+          "description": "אגם סואן הונג. מומלץ לשלב את המקום במסגרת יום רגוע בדאלאת ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=xuan+huong+דאלאת"
+        },
+        {
+          "name": "מפלים - דטנלה, פונגור, פיל, קם לי ודמברי",
+          "type": "דטנלה, פונגור, פיל, קם לי ודמברי",
+          "description": "דטנלה, פונגור, פיל, קם לי ודמברי. מומלץ לשלב את המקום במסגרת יום רגוע בדאלאת ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מפלים+דאלאת"
+        },
+        {
+          "name": "סנפלינג מפלים חובה!!!",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בדאלאת. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=סנפלינג+מפלים+חובה!!!+דאלאת"
+        },
+        {
+          "name": "מונגולנד - מגלשת קשת בענן ומריו קארד",
+          "type": "מגלשת קשת בענן ומריו קארד",
+          "description": "מגלשת קשת בענן ומריו קארד. מומלץ לשלב את המקום במסגרת יום רגוע בדאלאת ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מונגולנד+דאלאת"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "24.2",
+      "country": "",
+      "location": "דאלאת",
+      "lodging": "רובע -1 / 3",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: דאלאת.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "25.2",
+      "country": "",
+      "location": "דאלאת",
+      "lodging": "רובע -1 / 3",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: דאלאת.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "26.2",
+      "country": "",
+      "location": "דאלאת + הוי אן",
+      "lodging": "רובע -1 / 3",
+      "transfers": [
+        "סליפר / טיסה"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: דאלאת + הוי אן.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "27.2",
+      "country": "",
+      "location": "הוי אן",
+      "lodging": "רובע -1 / 3",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: הוי אן.",
+      "places": [
+        {
+          "name": "סדנאת אוכל!",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהוי אן. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=סדנאת+אוכל!+הוי+אן"
+        },
+        {
+          "name": "טרה קואה - כפר חקלאי סמוך להוי אן",
+          "type": "כפר חקלאי סמוך להוי אן",
+          "description": "כפר חקלאי סמוך להוי אן. מומלץ לשלב את המקום במסגרת יום רגוע בהוי אן ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טרה+קואה+הוי+אן"
+        },
+        {
+          "name": "העיר העתיקה והגשר היפני - ancient town",
+          "type": "ancient town",
+          "description": "ancient town. מומלץ לשלב את המקום במסגרת יום רגוע בהוי אן ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=העיר+העתיקה+והגשר+היפני+הוי+אן"
+        },
+        {
+          "name": "שייט בנהר - thu bon",
+          "type": "thu bon",
+          "description": "thu bon. מומלץ לשלב את המקום במסגרת יום רגוע בהוי אן ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שייט+בנהר+הוי+אן"
+        },
+        {
+          "name": "סירות עגולות ביער הקוקוסים",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהוי אן. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=סירות+עגולות+ביער+הקוקוסים+הוי+אן"
+        },
+        {
+          "name": "חופים לא רחוקים - cua dai / an bang",
+          "type": "cua dai / an bang",
+          "description": "cua dai / an bang. מומלץ לשלב את המקום במסגרת יום רגוע בהוי אן ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=חופים+לא+רחוקים+הוי+אן"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "28.2",
+      "country": "",
+      "location": "הוי אן",
+      "lodging": "רובע -1 / 3",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: הוי אן.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "1.3",
+      "country": "",
+      "location": "הוי אן + דה נאנג",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [
+        "אוטובוס / מונית - נסיעה קצרה"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: הוי אן + דה נאנג.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "2.3",
+      "country": "",
+      "location": "דה נאנג",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: דה נאנג.",
+      "places": [
+        {
+          "name": "חוף - my khe",
+          "type": "my khe",
+          "description": "my khe. מומלץ לשלב את המקום במסגרת יום רגוע בדה נאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=חוף+דה+נאנג"
+        },
+        {
+          "name": "בה נה הילס - פארק בהר יפיפה (גשר הידיים)",
+          "type": "פארק בהר יפיפה (גשר הידיים)",
+          "description": "פארק בהר יפיפה (גשר הידיים). מומלץ לשלב את המקום במסגרת יום רגוע בדה נאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=בה+נה+הילס+דה+נאנג"
+        },
+        {
+          "name": "גשר הדרקון",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בדה נאנג. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=גשר+הדרקון+דה+נאנג"
+        },
+        {
+          "name": "הרי השיש, מקדשי שיש ולידי בודהה - סון טרה",
+          "type": "סון טרה",
+          "description": "סון טרה. מומלץ לשלב את המקום במסגרת יום רגוע בדה נאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=הרי+השיש,+מקדשי+שיש+ולידי+בודהה+דה+נאנג"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "3.3",
+      "country": "",
+      "location": "דה נאנג",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: דה נאנג.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "4.3",
+      "country": "",
+      "location": "דה נאנג + הואה",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [
+        "לצאת בבוקר!!",
+        "נסיעה ברכבת בעדיפות דרך יפה / אוטובוס"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: דה נאנג + הואה.",
+      "places": [
+        {
+          "name": "טיול רגלי / אופניים במקדשים ברחבי העיירה",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בדה נאנג + הואה. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+רגלי+/+אופניים+במקדשים+ברחבי+העיירה+דה+נאנג+++הואה"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "5.3",
+      "country": "",
+      "location": "הואה + פונג נה",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [
+        "נסיעה באוטובוס"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: הואה + פונג נה.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "6.3",
+      "country": "",
+      "location": "פונג נה",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: פונג נה.",
+      "places": [
+        {
+          "name": "טיול במערות - חובה לסגור מראש!",
+          "type": "חובה לסגור מראש!",
+          "description": "חובה לסגור מראש!. מומלץ לשלב את המקום במסגרת יום רגוע בפונג נה ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=טיול+במערות+פונג+נה"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "7.3",
+      "country": "",
+      "location": "פונג נה",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: פונג נה.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "8.3",
+      "country": "",
+      "location": "פונג נה + טאם קוק",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [
+        "אוטובוס / סליפר"
+      ],
+      "restaurants": [],
+      "summary": "יום מעבר והתארגנות, עם זמן פנוי בהתאם לשעת ההגעה. מיקום: פונג נה + טאם קוק.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "9.3",
+      "country": "",
+      "location": "טאם קוק",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: טאם קוק.",
+      "places": [
+        {
+          "name": "באי דין – מתחם מקדשים ופגודה ענקית – חצי שעה נסיעה",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בטאם קוק. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=באי+דין+–+מתחם+מקדשים+ופגודה+ענקית+–+חצי+שעה+נסיעה+טאם+קוק"
+        },
+        {
+          "name": "העיר העתיקה הואה לו Hoa Lu Ancient Capital",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בטאם קוק. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=העיר+העתיקה+הואה+לו+Hoa+Lu+Ancient+Capital+טאם+קוק"
+        },
+        {
+          "name": "האנג מואה – תצפית ופגודה מדהימה – 500 מדרגות",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בטאם קוק. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=האנג+מואה+–+תצפית+ופגודה+מדהימה+–+500+מדרגות+טאם+קוק"
+        },
+        {
+          "name": "פגודת bich dong",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בטאם קוק. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=פגודת+bich+dong+טאם+קוק"
+        },
+        {
+          "name": "שייט נהר נגו דונג / טראנג אן",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בטאם קוק. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=שייט+נהר+נגו+דונג+/+טראנג+אן+טאם+קוק"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "10.3",
+      "country": "",
+      "location": "טאם קוק",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: טאם קוק.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "11.3",
+      "country": "",
+      "location": "טאם קוק + הא לונג ביי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: טאם קוק + הא לונג ביי.",
+      "places": [
+        {
+          "name": "נסיעה מוקדם לשייט + לילה אחד - לסגור מראש",
+          "type": "לסגור מראש",
+          "description": "לסגור מראש. מומלץ לשלב את המקום במסגרת יום רגוע בטאם קוק + הא לונג ביי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=נסיעה+מוקדם+לשייט+++לילה+אחד+טאם+קוק+++הא+לונג+ביי"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "12.3",
+      "country": "",
+      "location": "האלונג ביי + האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: האלונג ביי + האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "13.3",
+      "country": "",
+      "location": "האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: האנוי.",
+      "places": [
+        {
+          "name": "מולוזיאום הו צי מין",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהאנוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מולוזיאום+הו+צי+מין+האנוי"
+        },
+        {
+          "name": "אגם הואן קיאם ומקדש טראן קואוק",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהאנוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=אגם+הואן+קיאם+ומקדש+טראן+קואוק+האנוי"
+        },
+        {
+          "name": "העיר העתיקה",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהאנוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=העיר+העתיקה+האנוי"
+        },
+        {
+          "name": "רחוב הרכבת",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהאנוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=רחוב+הרכבת+האנוי"
+        },
+        {
+          "name": "מקדש הספרות - Temple of Literature",
+          "type": "Temple of Literature",
+          "description": "Temple of Literature. מומלץ לשלב את המקום במסגרת יום רגוע בהאנוי ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מקדש+הספרות+האנוי"
+        },
+        {
+          "name": "בית האופרה",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בהאנוי. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=בית+האופרה+האנוי"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "14.3",
+      "country": "",
+      "location": "האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "15.3",
+      "country": "",
+      "location": "האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "16.3",
+      "country": "",
+      "location": "האנוי + הא גיאנג",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: האנוי + הא גיאנג.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "17.3",
+      "country": "",
+      "location": "לופ הא גיאנג",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לופ הא גיאנג.",
+      "places": [
+        {
+          "name": "לופ ויאטנם - לסגור מראש",
+          "type": "לסגור מראש",
+          "description": "לסגור מראש. מומלץ לשלב את המקום במסגרת יום רגוע בלופ הא גיאנג ולבדוק שעות פתיחה ותנאים במקום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=לופ+ויאטנם+לופ+הא+גיאנג"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "18.3",
+      "country": "",
+      "location": "לופ הא גיאנג",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לופ הא גיאנג.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "19.3",
+      "country": "",
+      "location": "לופ הא גיאנג",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: לופ הא גיאנג.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "20.3",
+      "country": "",
+      "location": "הא גיאנג + סאפה",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: הא גיאנג + סאפה.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "21.3",
+      "country": "",
+      "location": "סאפה",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה.",
+      "places": [
+        {
+          "name": "ביקור אצל מאמא",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בסאפה. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=ביקור+אצל+מאמא+סאפה"
+        },
+        {
+          "name": "מפלי הכסף",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בסאפה. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מפלי+הכסף+סאפה"
+        },
+        {
+          "name": "מעבר גן עדן",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בסאפה. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=מעבר+גן+עדן+סאפה"
+        },
+        {
+          "name": "כפר קאט קאט",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בסאפה. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=כפר+קאט+קאט+סאפה"
+        },
+        {
+          "name": "הר פאנסיפאן",
+          "type": "אטרקציה",
+          "description": "אטרקציה/מקום מומלץ בסאפה. מתאים לשילוב לפי הקצב והזמן הפנוי במהלך היום.",
+          "tips": "לתכנן הגעה בשעות פחות עמוסות, לשמור מים, ולבדוק מראש שעות פתיחה ועלויות.",
+          "website": "https://www.google.com/maps/search/?api=1&query=הר+פאנסיפאן+סאפה"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "date": "22.3",
+      "country": "",
+      "location": "סאפה",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "23.3",
+      "country": "",
+      "location": "סאפה",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "24.3",
+      "country": "",
+      "location": "סאפה + האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה + האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "25.3",
+      "country": "",
+      "location": "סאפה + האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה + האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "26.3",
+      "country": "",
+      "location": "סאפה + האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה + האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "27.3",
+      "country": "",
+      "location": "סאפה + האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה + האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "28.3",
+      "country": "",
+      "location": "סאפה + האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה + האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "29.3",
+      "country": "",
+      "location": "סאפה + האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה + האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "30.3",
+      "country": "",
+      "location": "סאפה + האנוי",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: סאפה + האנוי.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "31.3",
+      "country": "",
+      "location": "האנוי - טיסה ליפן",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: האנוי - טיסה ליפן.",
+      "places": [],
+      "suggestions": []
+    },
+    {
+      "date": "1.4",
+      "country": "",
+      "location": "האנוי - טיסה ליפן",
+      "lodging": "לשקול להישאר יותר בהוי אן",
+      "transfers": [],
+      "restaurants": [],
+      "summary": "יום מלא בעיר בקצב נוח, עם שילוב של אטרקציות ומנוחה. מיקום: האנוי - טיסה ליפן.",
+      "places": [],
+      "suggestions": []
+    }
+  ]
+}
